@@ -6,7 +6,7 @@
 
 [Recursion](https://www.bing.com/ck/a?!&&p=f4624c5eccffa14cJmltdHM9MTcwNTk2ODAwMCZpZ3VpZD0yOGM4NmQ3OS0zMTA5LTZlNTYtM2M1Ny03ZWI2MzA4NjZmYWMmaW5zaWQ9NTIxOA&ptn=3&ver=2&hsh=3&fclid=28c86d79-3109-6e56-3c57-7eb630866fac&psq=recursion+js&u=a1aHR0cHM6Ly9qYXZhc2NyaXB0LmluZm8vcmVjdXJzaW9u&ntb=1 "Всплывающая подсказка") хайкарочи ма амияаша фамидм руй рекурсии зардада икида далшиша бфахмен хдтон
 
-![Изображение](https://blog.openreplay.com/images/explaining-recursion-in-javascript/images/hero.png "Логотип Recursion")
+![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
 **KArochi to mo limitsh namonem beskanichni kor kardan megira**
 **cHIKHE ?**
 ![Изображение](https://www.clipartmax.com/png/middle/15-154091_question-mark-animation-microsoft-powerpoint-clip-art-powerpoint-presentation-animated-question-mark.png "Логотип QUESTION")
