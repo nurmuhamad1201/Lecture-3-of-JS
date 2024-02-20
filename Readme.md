@@ -9,7 +9,7 @@
 ![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
 **KArochi to mo limitsh namonem beskanichni kor kardan megira**
 **cHIKHE ?**
-![Изображение](https://www.clipartmax.com/png/middle/15-154091_question-mark-animation-microsoft-powerpoint-clip-art-powerpoint-presentation-animated-question-mark.png "Логотип QUESTION")
+![Изображение](https://bigbangpartnership.co.uk/wp-content/uploads/2017/10/4-1024x576.webp)
 # карочи ай руи ами сурат мумкин камтар фахмен
 ![Изображение](https://vuejsdevelopers.com/images/posts/recursive_components.jpg "Логотип QUESTION")
 
