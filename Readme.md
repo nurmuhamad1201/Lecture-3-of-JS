@@ -6,7 +6,7 @@
 
 ![Recursion](https://i.ytimg.com/vi/NiQ8LP963hg/maxresdefault.jpg) хайкарочи ма амияаша фамидм руй рекурсии зардада икида далшиша бфахмен хдтон
 
-![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
+
 **KArochi to mo limitsh namonem beskanichni kor kardan megira**
 ````javascript
  function factorial(num) {
