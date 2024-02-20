@@ -17,7 +17,7 @@
 **а Closure боша да друни хдш я фнкцияи нав меcаза**
 
 
-![Изображение](https://th.bing.com/th/id/OIP.WnuKYwcXLyjH7nscmbiVOQAAAA?rs=1&pid=ImgDetMain "Логотип QUESTION")
+![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
 *A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time*
 
 ![Изображение](https://linuxhint.com/wp-content/uploads/2021/12/JavaScript-Function-closures-2.png   "Логотип QUESTION")
