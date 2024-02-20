@@ -8,6 +8,14 @@
 
 ![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
 **KArochi to mo limitsh namonem beskanichni kor kardan megira**
+````javascript
+ function factorial(num) {
+     if(num==0) return 1
+     return num * factorial(num-1)
+    
+ }
+ console.log(factorial(500));
+````
 **cHIKHE ?**
 ![Изображение](https://bigbangpartnership.co.uk/wp-content/uploads/2017/10/4-1024x576.webp)
 # карочи ай руи ами сурат мумкин камтар фахмен
@@ -16,7 +24,16 @@
 # Closure
 **а Closure боша да друни хдш я фнкцияи нав меcаза**
 
+````javascript
+function createAdder(num1) {
+    return (num2) => {
+        return num1+num2
+    }
+}
 
+const adder = createAdder(5)
+console.log(adder(3));
+````
 ![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbangpartnership.co.uk%2Fthe-creative-power-of-questions%2F&psig=AOvVaw2EVPhXUsspHlBEb2xNqSFr&ust=1708510500103000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCn1d7XuYQDFQAAAAAdAAAAABAQ)
 *A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time*
 
